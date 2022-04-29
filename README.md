@@ -8,8 +8,9 @@
 ### MHN-Admin Deployment (Required)
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
+  Using GCP
 
-<img src="mhn-admin.gif">
+<img src="Kapture 2022-04-28 at 23.34.42.gif">
 
 ### Dionaea Honeypot Deployment (Required)
 
