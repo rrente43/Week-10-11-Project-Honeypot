@@ -1,4 +1,4 @@
-# Week-10-11-Project-Honeypot
+# Honeypot Project
 # Honeypot Assignment
 
 **Time spent:** **10** hours spent in total
